@@ -1,0 +1,15 @@
+html{
+  heigth:100%;
+}
+
+body {
+  background: #329393;
+  background-size: cover;
+  font-family: Verdana;
+  color:#fff;
+  text-shadow: 1px 1px 8px #000;
+}
+
+h1{
+  text-align: center;
+}
